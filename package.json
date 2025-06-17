@@ -6,5 +6,8 @@
     "type": "git",
     "url": "git+https://github.com/Jdecristi/shopping-app.git"
   },
-  "packageManager": "pnpm@10.12.1"
+  "packageManager": "pnpm@10.12.1",
+  "devDependencies": {
+    "nx": "21.2.0"
+  }
 }
